@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://huanliu-research.github.io/huanliu-research/sitemap.xml
+Sitemap: https://huanliu-research.github.io/huanliu-research//sitemap.xml
